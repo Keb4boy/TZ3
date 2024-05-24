@@ -63,6 +63,19 @@
 
 Эта система доставки еды обеспечивает удобный и эффективный процесс заказа, оплаты и доставки еды из ресторанов. Система облегчает взаимодействие между клиентами, ресторанами и курьерами, улучшая общий опыт использования сервиса.
 
-#Диаграммы
+# Диаграммы
 
-[Uploading UseCode.drawio…]()
+<img width="828" alt="Снимок экрана 2024-05-25 в 01 35 31" src="https://github.com/Keb4boy/TZ3/assets/114433633/b1e86fdf-ece3-4da6-b84e-623b988fd908">
+
+<img width="704" alt="Снимок экрана 2024-05-25 в 01 35 57" src="https://github.com/Keb4boy/TZ3/assets/114433633/ccf452af-f4f3-427c-a48e-837f45ccd797">
+
+<img width="828" alt="Снимок экрана 2024-05-25 в 01 36 06" src="https://github.com/Keb4boy/TZ3/assets/114433633/445ddf38-5a51-4f76-a0d2-9470680a4b20">
+
+<img width="433" alt="Снимок экрана 2024-05-25 в 01 36 37" src="https://github.com/Keb4boy/TZ3/assets/114433633/bede446b-bbcf-4380-b889-bdf05bfabeea">
+
+<img width="598" alt="Снимок экрана 2024-05-25 в 01 37 01" src="https://github.com/Keb4boy/TZ3/assets/114433633/3e4e11ab-3427-4814-bcea-7d4e681df353">
+
+
+
+
+
